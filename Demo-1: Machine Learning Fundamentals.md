@@ -1,10 +1,7 @@
-Perfect 👍 Here’s a **complete Demo note** with the **code + explanation** (based on your given code). This will be GitHub-ready:
-
----
 
 # Demo-1: Machine Learning Fundamentals
 
-📅 Friday, 19 September 2025 – 3:47 PM
+
 
 ---
 
@@ -70,8 +67,3 @@ print(predictions)
 
 ---
 
-👉 This is a **basic demo of Machine Learning** using Logistic Regression with the famous **Iris dataset**.
-
----
-
-Would you like me to also prepare a **Demo-2** note where I extend this with **train-test split + accuracy check** (like in the screenshots earlier)? That way your GitHub shows **progression from basic → slightly advanced ML workflow**.
